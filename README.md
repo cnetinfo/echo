@@ -11,7 +11,7 @@ html
  css   
  ``` css
 <style>
-    div img {background: url("loading.gif") no-repeat 50% center;}
+    div img {background: url("loading.gif") no-repeat 50% center; width:100%;}
 </style>
  ``` 
 js
