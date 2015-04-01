@@ -4,7 +4,7 @@ js 图片延迟加载库
 html
 ``` html
 <div>
-    <img  src="images/blank.gif" data-echo="readly.jpg"  />
+    <img  src="blank.gif" data-echo="readly.jpg"  />
 </div>
 ```    
    
